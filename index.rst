@@ -10,7 +10,7 @@ Welcome to sphinx-demo's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+sphinx_demo
 
 Indices and tables
 ==================
